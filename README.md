@@ -5,7 +5,7 @@
   
   <details>
   <summary><b>gallery.</b></summary>
-    <h3>jazz moment.</h3>
+    <h3>jazz moment. (current)</h3>
     <img src="https://user-images.githubusercontent.com/118438453/223589616-a032e9a0-983d-42c8-b872-3620b15fd5ea.png"/>
     <hr/>
     <h3>saturdays.</h3>
