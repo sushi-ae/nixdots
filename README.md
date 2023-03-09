@@ -14,7 +14,7 @@
     <h3>the first one.</h3>
     <img src="https://user-images.githubusercontent.com/118438453/223591787-9217ee6c-80f0-4837-901f-93c7791758ef.png">
   </details>
-  <h3><i>these are the dotfiles for my nix system :(</i></h3>
+  <h3><i>here lies the dotfiles of my nix system :(</i></h3>
   <h3>desc</h3>
   <p>
     these are my nixos dotfiles because i'm <br>
