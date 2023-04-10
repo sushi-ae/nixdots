@@ -1,0 +1,45 @@
+window:
+  title: 'terminal'
+
+  padding:
+    x: 25
+    y: 25
+
+  dimensions:
+    columns: 40
+    lines: 15
+
+font:
+  normal:
+    family: CaskaydiaCove Nerd Font
+    style: SemiBold
+  size: 9.0
+
+colors:
+  primary:
+    background: '#0b0e14'
+    foreground: '#efefef'
+  cursor:
+    text:   CellForeground
+    cursor: '#efefef'
+  bright:
+    black:   '#131721'
+    red:     '#F26D78'
+    green:   '#7FD962'
+    yellow:  '#FFB454'
+    blue:    '#73B8FF'
+    magenta: '#D2A6FF'
+    cyan:    '#95E6CB'
+    white:   '#efefef'
+  normal:
+    black:   '#131721'
+    red:     '#F26D78'
+    green:   '#7FD962'
+    yellow:  '#FFB454'
+    blue:    '#73B8FF'
+    magenta: '#D2A6FF'
+    cyan:    '#95E6CB'
+    white:   '#efefef'
+
+cursor:
+  style: Beam

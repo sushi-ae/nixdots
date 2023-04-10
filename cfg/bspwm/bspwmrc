@@ -1,0 +1,22 @@
+#! /bin/sh
+
+pkill sxhkd
+pgrep -x sxhkd > /dev/null || sxhkd &
+
+bspc monitor -d 1 2 3 4
+
+bspc config border_width         0
+bspc config window_gap          25
+
+bspc config split_ratio          0.5
+bspc config borderless_monocle   true
+bspc config gapless_monocle      true
+
+bspc rule -a Alacritty state=floating
+bspc rule -a Chromium state=floating
+
+# autostart
+nitrogen --restore &
+pkill picom
+picom -b &
+sh ~/.config/polybar/start.sh
