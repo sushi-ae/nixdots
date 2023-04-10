@@ -16,10 +16,13 @@
   </details>
   <h3><i>here lies the dotfiles of my nix system :(</i></h3>
   <h3>desc</h3>
-  <p>
+  <s><p>
     these are my nixos dotfiles because i'm <br>
     too lazy to use my original dotfiles repo <br>
     for my nixdots. <br>
-  </p>
+  </p></s>
+  <p>due to many problems with nix <br>
+     and many issues relating to my <br>
+     skill, I am moving away from nixos.<br></p>
   </samp>
 </div>
